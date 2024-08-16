@@ -1,0 +1,43 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 19 Apr 2024, 10:34:08 am
+    Author     : khorzeyi
+*/
+
+.button-reset {
+    -fx-background-color: #FF0000;
+    -fx-border-color: none;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-border-radius: 8px;
+}
+
+.filter-background{
+    -fx-background-color: #BBB;
+}
+
+.table-view .column-header {
+    -fx-background-color: #A9A9A9;
+}
+
+/* Amber */
+.chart-bar.series0 {
+    -fx-bar-fill: #FFBF00;
+}
+
+/* Burnt Orange */
+.chart-bar.series1 {
+    -fx-bar-fill: #FF4500;
+}
+
+/* Maroon */
+.chart-bar.series2 {
+    -fx-bar-fill: blue;
+}
+
+.th {
+  text-align: left;
+}
